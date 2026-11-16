@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="AuthApi/AuthApi.csproj" />
+  <Project Path="WeatherForecast/WeatherForecast.csproj" Id="e957dab1-3f3f-4717-9084-5e70f6c9031e" />
+</Solution>
